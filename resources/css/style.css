@@ -29,6 +29,6 @@ a {
 }
 
 a.copyright {
-    text-align: right;
+    margin-left: auto;
     color: gray;
 }
