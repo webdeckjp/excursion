@@ -1,0 +1,34 @@
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+h1  {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+a.copyright {
+    text-align: right;
+    color: gray;
+}
